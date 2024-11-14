@@ -1,23 +1,23 @@
 const logotext = "Max";
 const meta = {
     title: "Maxim Tyl",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: " Maxim Tyl",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
         third: "I develop mobile apps",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "Tvořím projekty s uspořádaným kódem a uživatelsky přívětivým vzhledemm",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "co o mně",
+    aboutme: "Jsem nadšenec do UX/UI designu a webového vývoje, který se zaměřuje na vytváření funkčních, esteticky promyšlených a uživatelsky přívětivých digitálních produktů. Mým cílem je porozumět potřebám klienta i koncového uživatele a nabídnout řešení, která nejen dobře vypadají, ale také efektivně fungují. Kromě designu nabízím online konzultace, během kterých pomáhám klientům optimalizovat jejich weby a přináším nové nápady pro zlepšení jejich uživatelského rozhraní",
 };
 const worktimeline = [{
         jobtitle: "Designer of week",
@@ -37,11 +37,11 @@ const worktimeline = [{
 ];
 
 const skills = [{
-        name: "Python",
+        name: "Adobe Photoshop",
         value: 90,
     },
     {
-        name: "Djano",
+        name: "HTML5 a Css",
         value: 85,
     },
     {
@@ -53,22 +53,22 @@ const skills = [{
         value: 60,
     },
     {
-        name: "Jquery",
-        value: 85,
+        name: "Blendr",
+        value: 20,
     },
 ];
 
 const services = [{
         title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "Potřebujete uživatelsky přívětivé a vizuálně atraktivní rozhraní pro svou aplikaci nebo webové stránky?",
     },
     {
         title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "Potřebujete mobilní aplikaci spustitelnou v zařízeních iOS a Android?",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Online Konzultace",
+        description: "Potřebujete poradit s optimalizací vašeho webu nebo vylepšením jeho designu? Nabízím online konzultace, kde společně najdeme řešení na míru vašim potřebám.",
     },
 ];
 
@@ -136,9 +136,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "tylmaxim@gmail.com",
+    YOUR_FONE: "6969343543",
+    
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -147,10 +147,8 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/Tyxik",
+    
 };
 export {
     meta,
