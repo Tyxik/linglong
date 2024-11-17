@@ -5,7 +5,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import {
   dataabout,
   meta,
-  worktimeline,
+  
   skills,
   services,
 } from "../../content_option";
