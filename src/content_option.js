@@ -16,7 +16,7 @@ const introdata = {
 };
 
 const dataabout = {
-    title: "Něco o mně",
+    title: "About me ",
     aboutme: "Jsem nadšenec do UX/UI designu a webového vývoje, který se zaměřuje na vytváření funkčních, esteticky promyšlených a uživatelsky přívětivých digitálních produktů. Mým cílem je porozumět potřebám klienta i koncového uživatele a nabídnout řešení, která nejen dobře vypadají, ale také efektivně fungují. Kromě designu nabízím online konzultace, během kterých pomáhám klientům optimalizovat jejich weby a přináším nové nápady pro zlepšení jejich uživatelského rozhraní",
 };
 const worktimeline = [{
