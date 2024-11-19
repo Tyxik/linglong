@@ -17,10 +17,13 @@ Pokud chcete otestovat moje portfolio na svém lokálním stroji, postupujte pod
 
 1. Naklonujte repozitář:
  git clone https://github.com/Tyxik/linglong.git
+
 2.Přejděte do složky s projektem
 cd portfolio
+
 3.Nainstalujte závislosti pomocí Yarn:
 yarn install
+
 4.yarn start
 
 ## Ukázka
