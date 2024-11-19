@@ -1,6 +1,6 @@
 # Moje Portfolio
 
-Vítejte na mém portfoliu! Tento repozitář obsahuje mé osobní portfolio, které je vytvořeno pomocí **Reactu** a **Bootstrapu**. Portfólio ukazuje projekty, na kterých jsem pracoval/a, a poskytuje základní informace o mých dovednostech.
+Vítejte na mém portfoliu! Tento repozitář obsahuje mé osobní portfolio, které je vytvořeno pomocí **Reactu** a **Bootstrapu**.
 
 
 ## Technologie
